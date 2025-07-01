@@ -67,7 +67,7 @@ Currently building real-world tech at **Revive Ecotech Pvt Ltd**, an early-stage
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/View%20Resume-Google%20Drive-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1P5VLMLIFBeOuhkdwxRYO1GQfE4XaAoWL/view?usp=drive_link)
+[![Resume](https://drive.google.com/file/d/1trll8H8AMnDL5icjW-fzuaXtySw7-_n-/view?usp=drive_link)
 
 ---
 
