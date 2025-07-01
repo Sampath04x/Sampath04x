@@ -27,6 +27,8 @@ Currently building real-world tech at **Revive Ecotech Pvt Ltd**, an early-stage
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
+
 
 ### **Backend & Auth**
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
@@ -40,6 +42,8 @@ Currently building real-world tech at **Revive Ecotech Pvt Ltd**, an early-stage
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-orange?style=flat-square&logo=opencv&logoColor=white)
+
 
 ### **Tools & DevOps**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
@@ -48,6 +52,8 @@ Currently building real-world tech at **Revive Ecotech Pvt Ltd**, an early-stage
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter)
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-red?style=flat-square&logo=n8n&logoColor=white)
+
 
 ---
 
